@@ -10,9 +10,25 @@ DIY: High Voltage Range Switching Mode Power Supply for Embedded and Solar syste
 
 This is a DIY WVR-SMPS (Wide Voltage Range Switching Mode Power Supply) or simply Tesla SMPS is a wide range and high voltage input for low power embedded systems. This device allows input voltage as low as 100 VAC and as high as 820 VAC in wide frequency range (45 − 450 Hz) or even in DC voltage as low as 142 VDC and as high as 1,160 VDC using only 3 transistors
 
-## PCB SMD Version
+[State of the art](https://github.com/devfabiosilva/TeslaSMPS/blob/master/01-concept/StateOfTheArt.pdf)
 
-TODO
+## Basic Block diagram
+
+<p align="center">
+  <img src="/misc/img002.png">
+</p>
+
+## PCB Version
+
+<p align="center">
+  <img src="/misc/img003.png">
+</p>
+
+You can find PCB version in:
+
+[Gerber files](https://github.com/devfabiosilva/TeslaSMPS/tree/master/02-schematic_and_gerber_files/gerber)
+[Source code](https://github.com/devfabiosilva/TeslaSMPS/tree/master/03-smd-project)
+[Schematic](https://github.com/devfabiosilva/TeslaSMPS/blob/master/02-schematic_and_gerber_files/2-schematic.pdf)
 
 ## Features
 
