@@ -26,23 +26,11 @@ This is a DIY WVR-SMPS (Wide Voltage Range Switching Mode Power Supply) or simpl
 
 You can find PCB version in:
 
-[Gerber files](https://github.com/devfabiosilva/TeslaSMPS/tree/master/02-schematic_and_gerber_files/gerber)
-[Source code](https://github.com/devfabiosilva/TeslaSMPS/tree/master/03-smd-project)
-[Schematic](https://github.com/devfabiosilva/TeslaSMPS/blob/master/02-schematic_and_gerber_files/2-schematic.pdf)
+- [Gerber files](https://github.com/devfabiosilva/TeslaSMPS/tree/master/02-schematic_and_gerber_files/gerber)
 
-## Features
+- [Source code](https://github.com/devfabiosilva/TeslaSMPS/tree/master/03-smd-project)
 
-- Supply for low power Embedded or Solar Systems (max. power 20W)
-- Safe high insulation for output voltage (max. 2,600V)
-- Limited inrush current 42.6 A @ 1,160 Volts DC (0.38 A^2.s)
-- High frequency range in AC operation (45 − 450Hz)
-- AC/DC operation
-- Static short circuit/overload protection
-- Under voltage protection
-- Low cost components (only 3 active elements!)
-- Startup circuit
-- Limited ID (current drain) monitor
-- Secondary side grounded for security
+- [Schematic](https://github.com/devfabiosilva/TeslaSMPS/blob/master/02-schematic_and_gerber_files/2-schematic.pdf)
 
 ## Specifications
 
@@ -92,4 +80,18 @@ DC: 34.3 W
 ### Primary coil peak current
 
 933 mA
+
+## Features
+
+- Supply for low power Embedded or Solar Systems (max. power 20W)
+- Safe high insulation for output voltage (max. 2,600V)
+- Limited inrush current 42.6 A @ 1,160 Volts DC (0.38 A^2.s)
+- High frequency range in AC operation (45 − 450Hz)
+- AC/DC operation
+- Static short circuit/overload protection
+- Under voltage protection
+- Low cost components (only 3 active elements!)
+- Startup circuit
+- Limited ID (current drain) monitor
+- Secondary side grounded for security
 
