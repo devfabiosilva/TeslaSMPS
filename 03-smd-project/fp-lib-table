@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name fmodules)(type KiCad)(uri ${KIPRJMOD}/fmodules)(options "")(descr ""))
+  (lib (name modules)(type KiCad)(uri /home/fabiolinux/Documentos/MY_EMBEDDED/fabio_linux_embedded/modules)(options "")(descr "")(disabled))
+)
