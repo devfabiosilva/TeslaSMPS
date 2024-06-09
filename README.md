@@ -1,6 +1,6 @@
 # TeslaSMPS
 
-DIY: High Voltage Range Switching Mode Power Supply for Embedded and Solar systems
+DIY: High Voltage Range Switching Mode Power Supply for Embedded / Solar and industrial systems
 
 <p align="center">
   <img src="/misc/img001.jpg">
@@ -94,4 +94,50 @@ DC: 34.3 W
 - Startup circuit
 - Limited ID (current drain) monitor
 - Secondary side grounded for security
+
+## Building the transformer using recycled materials
+
+You will need to rewind the transformer following these steps
+
+## Step 1
+
+- Find an old ATX power PCB
+
+<p align="center">
+  <img src="/misc/img004.jpg">
+</p>
+
+<p align="center">
+  <img src="/misc/img005.jpg">
+</p>
+
+## Step 2
+
+- Disassemble the transformer core
+
+<p align="center">
+  <img src="/misc/img006.jpg">
+</p>
+
+<p align="center">
+  <img src="/misc/img007.jpg">
+</p>
+
+You can use a E-I or EE type ferrite core
+
+[reference 1](https://en.wikipedia.org/wiki/Ferrite_core)
+
+[reference 2](https://www.mag-inc.com/Products/Ferrite-Cores/Ferrite-Shapes/Learn-More-about-Ferrite-Shapes)
+
+## Step 3
+
+- Take the spool out of the core
+
+<p align="center">
+  <img src="/misc/img008.jpg">
+</p>
+
+<p align="center">
+  <img src="/misc/img009.jpg">
+</p>
 
