@@ -104,11 +104,11 @@ You will need to rewind the transformer following these steps
 - Find an old ATX power PCB
 
 <p align="center">
-  <img src="/misc/img004.jpg">
+  <img src="/misc/img004.png">
 </p>
 
 <p align="center">
-  <img src="/misc/img005.jpg">
+  <img src="/misc/img005.png">
 </p>
 
 ## Step 2
@@ -116,11 +116,11 @@ You will need to rewind the transformer following these steps
 - Disassemble the transformer core
 
 <p align="center">
-  <img src="/misc/img006.jpg">
+  <img src="/misc/img006.png">
 </p>
 
 <p align="center">
-  <img src="/misc/img007.jpg">
+  <img src="/misc/img007.png">
 </p>
 
 You can use a E-I or EE type ferrite core
@@ -134,10 +134,10 @@ You can use a E-I or EE type ferrite core
 - Take the spool out of the core
 
 <p align="center">
-  <img src="/misc/img008.jpg">
+  <img src="/misc/img008.png">
 </p>
 
 <p align="center">
-  <img src="/misc/img009.jpg">
+  <img src="/misc/img009.png">
 </p>
 
