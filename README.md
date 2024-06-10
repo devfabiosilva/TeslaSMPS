@@ -123,7 +123,7 @@ You will need to rewind the transformer following these steps
   <img src="/misc/img007.png">
 </p>
 
-You can use a E-I or EE type ferrite core
+You can use a EI or EE type ferrite core
 
 [reference 1](https://en.wikipedia.org/wiki/Ferrite_core)
 
@@ -140,4 +140,18 @@ You can use a E-I or EE type ferrite core
 <p align="center">
   <img src="/misc/img009.png">
 </p>
+
+## Step 4
+
+- Rewind the transformer spool
+
+<p align="center">
+  <img src="/misc/img009.png">
+</p>
+
+<p align="center">
+  <img src="/misc/img010.png">
+</p>
+
+TODO
 
