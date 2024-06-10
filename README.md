@@ -153,5 +153,31 @@ You can use a EI or EE type ferrite core
   <img src="/misc/img010.png">
 </p>
 
-TODO
+<p align="center">
+  <img src="/misc/img011.png">
+</p>
+
+- Rewinding turns:
+
+<p align="center">
+  <img src="/misc/img012.png">
+</p>
+
+- **A** - 4 turns (Secondary coil) (A mm)
+
+- **B** - 30 turns (Primary coil) (3 x B mm)
+
+- **C** - 5 turns (Positive feedback coil) (C mm)
+
+- **D** - 4 turns (Control circuit supply) (D mm)
+
+**TODO**: Determine cupper diameter
+
+- Primary coil skin effect: You need to put 3 x A mm cupper to decrease [skin effect](https://en.wikipedia.org/wiki/Skin_effect). Just interlace 3 x A mm cupper wires and rewind the primary transformer spool
+
+- INSULATION (WARNING !!!)
+
+It is EXTREMELY IMPORTANT to insulate high voltage from secundary side. To do this you will need 5 layers of insulating tape to insulate 3 kV. Thus:
+
+INSERT IMAGE WITH COIL LAYERS AND INSULATORS
 
