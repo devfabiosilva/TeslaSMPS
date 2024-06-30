@@ -107,11 +107,13 @@ DC: 34.3 W
 
 This power supply works with very high voltage input. Care MUST be taken to avoid any personal injuries or death
 
-- When power on high voltage, keep clear from input voltage cable. For input voltages above 300 Vac/Vdc negative output MUST be grounded with 10 Ohms impedance or less
+- When power on high voltage, keep clear from input voltage cable.
+
+- For input voltages above 300 Vac/Vdc negative output MUST be grounded with 10 Ohms impedance or less
 
 - Keep in mind that this circuit stores high voltage even when power cord is off. If you want to repair or clear this SMPS wait at least 1 minute after remove power supply cord. Check test points TP1 (Cathode) and TP2 (Anode) pins with Voltimeter in scale 1,000 Vdc after touch or repair this circuit.
 
-- Static overload/short circuit protection: This device has security circuit for under voltage, short circuit and overload. When one of these events occurs this SMPS stop working and we need to disconnect power cord remove the problem and wait 30 seconds to turn on power cord again to this device works properly. NEVER touch or open this circuit if one of these events occurs EVEN you disconnected this device from power cord.
+- This device has security circuit for under voltage, short circuit and overload. When one of these events occurs, this SMPS will stop working and we need to disconnect power cord, remove the problem and then wait 30 seconds to turn on power cord again. NOTICE: NEVER touch or open this circuit if one of these events occurs EVEN if you disconnected this device from power cord.
 
 <p align="center">
   <img src="/misc/img019.png">
@@ -215,15 +217,47 @@ Transformer spool cross section example:
   <img src="/misc/img014.jpg">
 </p>
 
+Primary coil winding
+
 <p align="center">
   <img src="/misc/img015.jpg">
 </p>
+
+_Control circuit supply_ and _control circuit supply_
 
 <p align="center">
   <img src="/misc/img016.jpg">
 </p>
 
+Finishing insulation
+
 <p align="center">
   <img src="/misc/img017.jpg">
+</p>
+
+### Creating the core gap:
+
+[Flyback topology](https://www.coilcraft.com/en-us/edu/series/a-guide-to-flyback-transformers/) needs a [core gap](https://www.e-magnetica.pl/doku.php/air_gap) due to high peek flux to avoid saturation of the [ferrite coil](https://article.murata.com/en-us/article/basics-of-noise-countermeasures-lesson-8)
+
+So we need to create one _approx. 120um_ core gap using a non magnetic material. E.g.: a piece of paper
+
+Got a A4 paper
+<p align="center">
+  <img src="/misc/img020.jpg">
+</p>
+
+Cut a piece of paper
+<p align="center">
+  <img src="/misc/img021.jpg">
+</p>
+
+Fix the piece of paper in transforme core
+<p align="center">
+  <img src="/misc/img022.jpg">
+</p>
+
+Close the transformer core
+<p align="center">
+  <img src="/misc/img023.jpg">
 </p>
 
