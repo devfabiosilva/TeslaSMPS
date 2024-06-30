@@ -63,7 +63,7 @@ DC: 34.3 W
 
 ### Insulation
 
-2,600 Volts
+3,600 Volts
 
 ### Inrush current
 
@@ -84,7 +84,7 @@ DC: 34.3 W
 ## Features
 
 - Supply for low power Embedded or Solar Systems (max. power 20W)
-- Safe high insulation for output voltage (max. 2,600V)
+- Safe high insulation for output voltage (max. 3,600V)
 - Limited inrush current 42.6 A @ 1,160 Volts DC (0.38 A^2.s)
 - High frequency range in AC operation (45 − 450Hz)
 - AC/DC operation
@@ -97,16 +97,25 @@ DC: 34.3 W
 
 ## BEFORE YOU BEGIN:
 
+### Remember: SAFETY FIRST
+
 <p align="center">
   <img src="/misc/img018.png">
 </p>
 
-### DANGER :skull:
+### :skull::skull::skull: DANGER :skull::skull::skull:
 
 This power supply works with very high voltage input. Care MUST be taken to avoid any personal injuries or death
 
-TODO
+- When power on high voltage, keep clear from input voltage cable. For input voltages above 300 Vac/Vdc negative output MUST be grounded with 10 Ohms impedance or less
 
+- Keep in mind that this circuit stores high voltage even when power cord is off. If you want to repair or clear this SMPS wait at least 1 minute after remove power supply cord. Check test points TP1 (Cathode) and TP2 (Anode) pins with Voltimeter in scale 1,000 Vdc after touch or repair this circuit.
+
+- Static overload/short circuit protection: This device has security circuit for under voltage, short circuit and overload. When one of these events occurs this SMPS stop working and we need to disconnect power cord remove the problem and wait 30 seconds to turn on power cord again to this device works properly. NEVER touch or open this circuit if one of these events occurs EVEN you disconnected this device from power cord.
+
+<p align="center">
+  <img src="/misc/img019.png">
+</p>
 
 ## Building the transformer using recycled materials
 
@@ -200,7 +209,7 @@ _4 x 0.1mm interlaced wire_
 
 It is EXTREMELY IMPORTANT to insulate high voltage from secundary side. To do this you will need 6 layers of insulating tape to insulate 3.6 kV. Thus:
 
-Transformer spool cross section
+Transformer spool cross section example:
 
 <p align="center">
   <img src="/misc/img014.jpg">
