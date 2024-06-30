@@ -1,0 +1,36 @@
+Drill report for tesla_smps.kicad_pcb
+Created on Sun 16 Jun 2024 14:35:11 -03
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  cobre frontal             front
+    L2 :  Cobre traseira            back
+
+
+Drill file 'tesla_smps-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (1 hole)
+    T2  0.500mm  0.0197"  (45 holes)
+    T3  0.600mm  0.0236"  (2 holes)
+    T4  0.750mm  0.0295"  (12 holes)
+    T5  0.800mm  0.0315"  (48 holes)
+    T6  0.900mm  0.0354"  (2 holes)
+    T7  1.010mm  0.0398"  (4 holes)
+    T8  1.020mm  0.0402"  (3 holes)
+    T9  1.200mm  0.0472"  (32 holes)
+    T10  1.300mm  0.0512"  (2 holes)
+    T11  1.500mm  0.0591"  (12 holes)
+    T12  1.600mm  0.0630"  (2 holes)
+    T13  3.000mm  0.1181"  (2 holes)
+
+    Total plated holes count 167
+
+
+Drill file 'tesla_smps-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  1.000mm  0.0394"  (14 holes)  (with 14 slots)
+    T2  4.000mm  0.1575"  (4 holes)
+
+    Total unplated holes count 18

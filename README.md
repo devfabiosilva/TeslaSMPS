@@ -69,7 +69,7 @@ DC: 34.3 W
 
 42.6 Ampères @ 1,160 Volts
 
-### (I^2)t.s Value
+### (I^2)s Value
 
 0.38 A^2-seconds
 
@@ -94,6 +94,19 @@ DC: 34.3 W
 - Startup circuit
 - Limited ID (current drain) monitor
 - Secondary side grounded for security
+
+## BEFORE YOU BEGIN:
+
+<p align="center">
+  <img src="/misc/img018.png">
+</p>
+
+### DANGER :skull:
+
+This power supply works with very high voltage input. Care MUST be taken to avoid any personal injuries or death
+
+TODO
+
 
 ## Building the transformer using recycled materials
 
@@ -163,21 +176,45 @@ You can use a EI or EE type ferrite core
   <img src="/misc/img012.png">
 </p>
 
-- **A** - 4 turns (Secondary coil) (A mm)
+- **A** - 4 turns (Secondary coil) (5 x 0.1 mm diameter *)
 
-- **B** - 30 turns (Primary coil) (3 x B mm)
+- **B** - 30 turns (Primary coil) (3 x 0.05 mm diameter *)
 
-- **C** - 5 turns (Positive feedback coil) (C mm)
+- **C** - 5 turns (Positive feedback coil) (0.1 mm diameter)
 
-- **D** - 4 turns (Control circuit supply) (D mm)
+- **D** - 4 turns (Control circuit supply) (0.1 mm diameter)
 
-**TODO**: Determine cupper diameter
+_* Primary and secondary coil [skin effect](https://en.wikipedia.org/wiki/Skin_effect). Just interlace 3 x 0.05 mm copper wires and rewind the primary transformer spool and 5 x 0.1 mm copper wires in secondary coil_
 
-- Primary coil skin effect: You need to put 3 x A mm cupper to decrease [skin effect](https://en.wikipedia.org/wiki/Skin_effect). Just interlace 3 x A mm cupper wires and rewind the primary transformer spool
+See example below:
 
-- INSULATION (WARNING !!!)
+<p align="center">
+  <img src="/misc/img013.jpg">
+</p>
 
-It is EXTREMELY IMPORTANT to insulate high voltage from secundary side. To do this you will need 5 layers of insulating tape to insulate 3 kV. Thus:
+_4 x 0.1mm interlaced wire_
 
-INSERT IMAGE WITH COIL LAYERS AND INSULATORS
+## LAYERS AND INSULATORS
+
+### INSULATION (WARNING !!!)
+
+It is EXTREMELY IMPORTANT to insulate high voltage from secundary side. To do this you will need 6 layers of insulating tape to insulate 3.6 kV. Thus:
+
+Transformer spool cross section
+
+<p align="center">
+  <img src="/misc/img014.jpg">
+</p>
+
+<p align="center">
+  <img src="/misc/img015.jpg">
+</p>
+
+<p align="center">
+  <img src="/misc/img016.jpg">
+</p>
+
+<p align="center">
+  <img src="/misc/img017.jpg">
+</p>
 
