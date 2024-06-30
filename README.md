@@ -237,7 +237,7 @@ Finishing insulation
 
 ### Creating the core gap:
 
-[Flyback topology](https://www.coilcraft.com/en-us/edu/series/a-guide-to-flyback-transformers/) needs a [core gap](https://www.e-magnetica.pl/doku.php/air_gap) due to high peek flux to avoid saturation of the [ferrite coil](https://article.murata.com/en-us/article/basics-of-noise-countermeasures-lesson-8)
+[Flyback topology](https://www.coilcraft.com/en-us/edu/series/a-guide-to-flyback-transformers/) needs a [core gap](https://www.e-magnetica.pl/doku.php/air_gap) due to high peek flux to avoid saturation of the [ferrite coil](https://resources.pcb.cadence.com/blog/2022-what-is-a-ferrite-core)
 
 So we need to create one _approx. 120um_ core gap using a non magnetic material. E.g.: a piece of paper
 
