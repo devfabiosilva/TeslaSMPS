@@ -241,7 +241,7 @@ Finishing insulation
 
 So we need to create one _approx. 120um_ core gap using a non magnetic material. E.g.: a piece of paper
 
-Got a A4 paper
+Take a A4 paper
 <p align="center">
   <img src="/misc/img020.jpg">
 </p>
@@ -260,4 +260,20 @@ Close the transformer core
 <p align="center">
   <img src="/misc/img023.jpg">
 </p>
+
+Finally your transformer is ready to work in your Tesla SMPS
+
+## Contact
+
+Feel free to contact me at [fabioegel@gmail.com](mailto:fabioegel@gmail.com)
+
+## Sponsors
+
+This project is sponsored by [PCBWay](https://www.pcbway.com/)
+
+## References
+
+- [AN4148 Audible Noise Reduction Techniques for FPS Applications](https://www.onsemi.com/download/application-notes/pdf/an-4148.pdf)
+- [High Voltage Printed Circuit Design & Manufactoring Notebook](https://www.magazines007.com/pdf/High-Voltage-PCDesign.pdf)
+- [EEVblog #678 - What is a PCB Spark Gap?](https://www.youtube.com/watch?v=vfP_65gSSBU)
 
