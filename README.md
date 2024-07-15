@@ -21,6 +21,10 @@ This is a DIY WVR-SMPS (Wide Voltage Range Switching Mode Power Supply) or simpl
 ## PCB Version
 
 <p align="center">
+  <img src="/misc/img024.png">
+</p>
+
+<p align="center">
   <img src="/misc/img003.png">
 </p>
 
