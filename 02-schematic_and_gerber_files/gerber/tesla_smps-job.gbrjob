@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "6.0.2+dfsg-1"
+      "Version": "8.0.4-8.0.4-0~ubuntu22.04.1"
     },
-    "CreationDate": "2024-06-16T14:38:52-03:00"
+    "CreationDate": "2024-08-04T23:42:01-03:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -24,8 +24,8 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.0,
-      "PadToTrack": 0.0,
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
       "MinLineWidth": 0.25,
       "TrackToRegion": 0.508,
@@ -54,12 +54,12 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "tesla_smps-M\\u00E1scara frontal.gbr",
+      "Path": "tesla_smps-Máscara frontal.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "tesla_smps-M\\u00E1scara traseira.gbr",
+      "Path": "tesla_smps-Máscara traseira.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
@@ -80,24 +80,29 @@
     },
     {
       "Type": "SolderMask",
+      "Thickness": 0.01,
       "Name": "Top Solder Mask"
     },
     {
       "Type": "Copper",
+      "Thickness": 0.035,
       "Name": "cobre frontal"
     },
     {
       "Type": "Dielectric",
+      "Thickness": 1.51,
       "Material": "FR4",
       "Name": "cobre frontal/Cobre traseira",
       "Notes": "Type: dielectric layer 1 (from cobre frontal to Cobre traseira)"
     },
     {
       "Type": "Copper",
+      "Thickness": 0.035,
       "Name": "Cobre traseira"
     },
     {
       "Type": "SolderMask",
+      "Thickness": 0.01,
       "Name": "Bottom Solder Mask"
     },
     {

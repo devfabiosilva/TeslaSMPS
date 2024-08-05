@@ -7406,7 +7406,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical"
 			(at 85.852 76.2 90)
 			(effects
 				(font
@@ -7415,7 +7415,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.token.com.tw/pdf/resistor/resistor-forming-dimensions.pdf"
+		(property "Datasheet" "https://br.mouser.com/datasheet/2/418/9/ENG_CD_2176612_BA1-3367925.pdf"
 			(at 87.63 76.2 0)
 			(effects
 				(font
@@ -7475,7 +7475,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Radial_D12.5mm_H25.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Radial_D16.0mm_H31.5mm_P7.50mm"
 			(at 219.71 50.8 0)
 			(effects
 				(font
@@ -7484,7 +7484,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://br.mouser.com/datasheet/2/420/United-Chemi-Con-1511408.pdf"
+		(property "Datasheet" "https://www.tdk-electronics.tdk.com/inf/20/30/db/aec_2013/B41821_B43821.pdf"
 			(at 219.71 50.8 0)
 			(effects
 				(font
@@ -7544,7 +7544,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Radial_D12.5mm_H25.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Radial_D16.0mm_H31.5mm_P7.50mm"
 			(at 219.71 63.5 0)
 			(effects
 				(font
@@ -7553,7 +7553,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://br.mouser.com/datasheet/2/420/United-Chemi-Con-1511408.pdf"
+		(property "Datasheet" "https://www.tdk-electronics.tdk.com/inf/20/30/db/aec_2013/B41821_B43821.pdf"
 			(at 219.71 63.5 0)
 			(effects
 				(font
@@ -7613,7 +7613,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Radial_D12.5mm_H25.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Radial_D16.0mm_H31.5mm_P7.50mm"
 			(at 219.71 76.2 0)
 			(effects
 				(font
@@ -7622,7 +7622,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://br.mouser.com/datasheet/2/420/United-Chemi-Con-1511408.pdf"
+		(property "Datasheet" "https://www.tdk-electronics.tdk.com/inf/20/30/db/aec_2013/B41821_B43821.pdf"
 			(at 219.71 76.2 0)
 			(effects
 				(font
@@ -10265,7 +10265,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
 			(at 69.85 90.17 0)
 			(effects
 				(font
@@ -10274,7 +10274,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://br.mouser.com/datasheet/2/315/ABA0000C1215-1109177.pdf"
 			(at 69.85 90.17 0)
 			(effects
 				(font
@@ -11818,7 +11818,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Radial_D12.5mm_H25.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Radial_D16.0mm_H25.0mm_P7.50mm"
 			(at 35.56 74.93 0)
 			(effects
 				(font
@@ -11827,7 +11827,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://br.mouser.com/datasheet/2/212/KEM_A4055_ESE-1140496.pdf"
+		(property "Datasheet" "https://www.mouser.com/catalog/specsheets/tdk_b41821_b43821.pdf?_gl=1*1stbbr3*_gcl_aw*R0NMLjE3MTg2NTU2NTUuQ2owS0NRand2Yi16QmhDbUFSSXNBQWZVSTJzdjltU3NZNlZkbUxJVFV5TEVvUU13eDF5T0xuNTc1WldsWVJuZ25LaDk2WXlRcmQ2WHV6b2FBc2lURUFMd193Y0I.*_gcl_au*OTUyOTkzNzc0LjE3MTU0NTc4NDk.*_ga*MTI5ODczODI3My4xNjkwMzI0NjIw*_ga_15W4STQT4T*MTcyMjgyMTk2Ny4xMS4xLjE3MjI4MjIwMzMuNTcuMC4w"
 			(at 35.56 74.93 0)
 			(effects
 				(font
@@ -12021,7 +12021,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
 			(at 17.78 115.57 0)
 			(effects
 				(font
@@ -12030,7 +12030,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://br.mouser.com/datasheet/2/315/ABA0000C1215-1109177.pdf"
 			(at 17.78 115.57 0)
 			(effects
 				(font
@@ -12354,7 +12354,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 28.448 127 90)
 			(effects
 				(font
@@ -13174,7 +13174,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 57.658 124.46 90)
 			(effects
 				(font
