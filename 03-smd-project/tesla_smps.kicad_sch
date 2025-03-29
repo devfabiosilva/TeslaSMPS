@@ -11,6 +11,7 @@
 		(comment 1 "Author: Fábio Pereira da Silva")
 		(comment 2 "Creative Commons")
 		(comment 3 "Wide Range and High Voltage SMPS with Flyback topology for industrial & home application")
+		(comment 4 "Rev 1.2")
 	)
 	(lib_symbols
 		(symbol "Reference_Voltage:TL431LP"
@@ -7475,7 +7476,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Radial_D16.0mm_H31.5mm_P7.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm"
 			(at 219.71 50.8 0)
 			(effects
 				(font
@@ -7544,7 +7545,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Radial_D16.0mm_H31.5mm_P7.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm"
 			(at 219.71 63.5 0)
 			(effects
 				(font
@@ -7613,7 +7614,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Radial_D16.0mm_H31.5mm_P7.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm"
 			(at 219.71 76.2 0)
 			(effects
 				(font
@@ -9838,7 +9839,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000059e8f546")
 		(property "Reference" "D14"
-			(at 182.88 73.66 0)
+			(at 180.34 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9846,8 +9847,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2N5262"
-			(at 179.07 71.12 0)
+		(property "Value" "2N5060/MCR100-3"
+			(at 177.8 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10872,7 +10873,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder"
 			(at 106.68 90.932 90)
 			(effects
 				(font
@@ -11818,7 +11819,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Radial_D16.0mm_H25.0mm_P7.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm"
 			(at 35.56 74.93 0)
 			(effects
 				(font
