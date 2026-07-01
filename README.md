@@ -2,6 +2,20 @@
 
 DIY: High Voltage Range Switching Mode Power Supply for Embedded / Solar and industrial systems
 
+## 2026 KiCad Design Contest
+
+Sponsored by PCB Way. See details [here](https://www.pcbway.com/project/shareproject/TeslaSMPS_Simple_3_Transistor_Ultra_Wide_Range_100V_820V_AC_142V_1160V_DC_c3cf9745.html)
+
+<p align="center">
+  <img src="/misc/img025.jpg">
+</p>
+
+<p align="center">
+  <img src="/misc/img026.jpg">
+</p>
+
+### Old handmade version 2015
+
 <p align="center">
   <img src="/misc/img001.jpg">
 </p>
